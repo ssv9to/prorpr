@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rubik+Mono+One&family=Sanchez&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Sanchez&display=swap');
+.wrapper{
+    width: 1440px;
+    height: 4000px;
+}
+*{
+    margin: 0 auto;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: #FFF0DD;
+    
+}
+.headbuttons{
+    align-items: center;
+    font-size: 36px;
+    font-family: Sanchez;
+    padding-top: 27px;
+    padding-left: 28.5px;
+    display: flex;
+}
+.buttons{
+    display: flex;
+    margin-left: 267px;
+    font-family: Sanchez;
+    font-size: 24px;
+    width: 661px;
+    height: 31px;
+}
+.logoo{
+    margin:0px;
+}
+.cart{
+    height: 54px;
+    width: 25px;
+    margin-right: 28.5px;
+}
+.carousel-item img{
+    width: 1440px;
+    height: 680px;
+}
+.btn1{
+    text-decoration: none;
+}
+.btn2{
+    text-decoration: none;
+}
+.btn3{
+    text-decoration: none;
+}
+.btn4{
+    text-decoration: none;
+}
+.btn5{
+    text-decoration: none;
+}
+.screen2{
+    margin-top: 148px;
+    margin-left: 14px;
+    margin-right: 14px;
+}
+.textik{
+    font-family: Sanchez;
+    font-size: 64px;
+}
+.card1{
+    height: 616px;
+    width: 432px;
+    background-color: #FFEFD7;
+    margin: 0px;
+    margin-top: 64px;
+    border-radius: 32px;
+}
+.imagabozhe{
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 24px;
+}
+.cardtext{
+    font-family: Sanchez;
+    margin-top: 18px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.cardtext h3{
+    font-family: Roboto;
+    font-size: 16px;
+    color: rgb(0, 0, 0, 50%);
+    font-weight: regular;
+}
+.price_cart{
+    display: flex;
+    font-family: Sanchez;
+    width: 400px;
+    height: 56px;
+    margin-top: 18px;
+    margin-left: 16px;
+}
+.price_cart h2{
+    font-size: 32px;
+    padding-top: 12px;
+}
+.price_cart img{
+    margin-left: 264px;
+}
